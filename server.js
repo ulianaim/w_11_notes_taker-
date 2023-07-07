@@ -36,14 +36,6 @@ app.post('/api/notes', (req, res) =>{
     })
 });
 
-// app.delete('/api/notes/:id', (req, res) =>{
-//     db.push (req.body)
-//     fs.writeFile('Develop/db/db.json', JSON.stringify(db), 'utf8', (error, data) => {
-//     if (error) throw error;
-//     res.json(data)
-//     })
-// });
-
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
 );

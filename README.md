@@ -27,3 +27,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
+The following picture shows the web application's appearance:
+![alt text](./assets/Greenshot%202023-07-06%2021.53.12.png)
+
+The following webpage can take you to the website so you can try use Note Taker for yourself: https://hidden-citadel-93640-60ca4a7091ea.herokuapp.com/notes
